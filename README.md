@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/91090905/145271693-ef860df5-2106-4b3c-8b47-0a02aabbb43b.jpg" width="700px" />
 </div>
 
+## Click to see my project - <a href="https://jsmeyring.github.io/frontendmentor_desafios/Desafio.html" target="_blank">Single Price Grid Layout</a>
 
 ##  I'm a beginning front-end developer.
 

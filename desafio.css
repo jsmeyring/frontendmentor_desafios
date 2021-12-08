@@ -31,7 +31,8 @@ main{
     display: grid;
     grid-template-areas: 
     "u u"
-    "l r";
+    "l r"
+    "f f";
     grid-template-columns: 1 fr 1fr;
     grid-template-rows: 4fr 4fr;
 
@@ -139,6 +140,7 @@ div  ul{
 }
 
 footer{
+    grid-area: f;
     display: block;
     margin: auto;
     padding: 10px;
@@ -150,9 +152,9 @@ footer{
 
     .conteiner{
         max-width: 450px;
-        grid-template-areas: "u" "l" " r";
+        grid-template-areas: "u" "l" " r" "f";
         grid-template-columns: 1fr;
-        grid-template-rows: 4fr 4fr 4fr;
+        grid-template-rows: 4fr 4fr 4fr 2fr;
     }
     .box-up{
         max-width: 350px;
@@ -165,14 +167,17 @@ footer{
         max-width: 450px;
         border-radius: 0px 0px 8px 8px;
     }
+    footer{
+        max-width: 450px;
+    }
 }
 
 @media (max-width: 375px){
     .conteiner{
         max-width: 355px;
-        grid-template-areas: "u" "l" " r";
+        grid-template-areas: "u" "l" " r" "f";
         grid-template-columns: 1fr;
-        grid-template-rows: 4fr 4fr 4fr;
+        grid-template-rows: 4fr 4fr 4fr 2fr;
     }
     .box-up{
         max-width: 355px;
@@ -184,6 +189,9 @@ footer{
     .box-rigth{
         max-width: 355px;
         border-radius: 0px 0px 8px 8px;
+    }
+    footer{
+        max-width: 355px;
     }
 }
 

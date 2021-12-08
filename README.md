@@ -13,7 +13,7 @@
 
 ### This is an initial project using CSS Grid Layout.
 
-### It is a challenge proposed by the <a ref="https://www.frontendmentor.io/challengesFrontend" target="_Blank"> Frontend Mentor</a>.
+### It is a challenge proposed by the <a href="https://www.frontendmentor.io/challengesFrontend" target="_Blank">Frontend Mentor</a>.
 
 ### Please check my code and feel free to comment and edit the code.
 

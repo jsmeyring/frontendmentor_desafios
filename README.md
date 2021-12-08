@@ -3,7 +3,7 @@
 # Single price grid component challenge hub
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="![desktop-preview](https://user-images.githubusercontent.com/91090905/145271693-ef860df5-2106-4b3c-8b47-0a02aabbb43b.jpg)" width="700px" />
 </div>
 
 
